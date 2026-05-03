@@ -170,7 +170,6 @@ SpringBoot Microservices/
 ### 1. Clone the Repository
 
 ```bash
-cd /Users/saikrishna/Desktop/"SpringBoot Microservices"
 git clone <repository-url>
 ```
 
